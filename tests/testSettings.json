@@ -1,0 +1,11 @@
+{
+    "Orgisationdetails":{
+        "OrgUrl":"https://azdoc-stage.le2.imageware.io/web/login",
+        "SuperAdmin_UserName":"IWSAdmin",
+        "SuperAdmin_UserPassword":"7uKX1AX*{n1o<KUkKEX)",
+        "Booking_Officer_Email":"le2-sso-test-4@tech5-sa.com",
+        "MBooking_Officer_Password":"Tech5USA!!@@",
+        "Officer_Email": "le2-sso-test-3@tech5-sa.com",
+        "Officer_Password":"Tech5USA!!@@"
+        }
+}
