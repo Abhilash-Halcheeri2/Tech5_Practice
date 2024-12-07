@@ -1,4 +1,4 @@
-import { test, expect, Page } from "@playwright/test";
+import { test} from "@playwright/test";
 import path from "path";
 import {
   ControlType,
@@ -10,8 +10,7 @@ import {
 import {
   clearCache,
   loginToAccount,
-  loginWithMSCredentials,
-  NavigateToSubArea,
+   NavigateToSubArea,
 } from "../utility/helper";
 import { Orgisationdetails } from "../testSettings.json";
 import {
@@ -19,7 +18,6 @@ import {
   Click_AdvanceSearch_btn,
   ClickOnAdvancedSearchResult,
   deleteAndvalidateDeletedRecordInGrid,
-  deleteSavedBookingForm,
   printSavedBookingForm,
   sealSavedBookingRecord,
   SearchRecordsAndValidateInGrid,
